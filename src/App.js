@@ -1,12 +1,20 @@
+import React from "react";
+
+import {About, Footer, Header, Skills, Testimonial, Work} from './container';
 
 function App() {
-  return (
-    <div className="App">
+    return (
+        <div className="App">
 
-      <h1>Heading 1</h1>
+            <Header/>
+            <About/>
+            <Work/>
+            <Skills/>
+            <Testimonial/>
+            <Footer/>
 
-    </div>
-  );
+        </div>
+    )
 }
 
 export default App;
