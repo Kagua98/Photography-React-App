@@ -35,7 +35,11 @@ import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
+import android from '../assets/android.png'
+import kotlin from '../assets/kotlin.svg'
+
 export default {
+    android,
     email,
     mobile,
     api,
@@ -47,6 +51,7 @@ export default {
     graphql,
     html,
     javascript,
+    kotlin,
     mu5,
     node,
     python,
