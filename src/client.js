@@ -1,5 +1,5 @@
-import sanityClient from '@sanity/client'
-import imageUrlBuilder from '@sanity/image-url'
+import sanityClient from '@sanity/client';
+import imageUrlBuilder from '@sanity/image-url';
 
 //Import credentials from Sanity ('npm run dev')
 export const client = sanityClient({
