@@ -55,6 +55,3 @@ yarn-error.log*
 .springBeans
 .sts4-cache
 bin/
-
-# Credentials
-.env
